@@ -1,0 +1,15 @@
+Num Topics: 4, Coherence Score: 0.41001229899309716
+Num Topics: 6, Coherence Score: 0.4209946502710235
+Num Topics: 8, Coherence Score: 0.4632329327031267
+Num Topics: 10, Coherence Score: 0.47709437801868565
+Num Topics: 12, Coherence Score: 0.4566047971304925
+Num Topics: 14, Coherence Score: 0.5053646380910076
+Num Topics: 16, Coherence Score: 0.4782888021745276
+Num Topics: 18, Coherence Score: 0.5077927217610065
+Num Topics: 20, Coherence Score: 0.4927174032356776
+Num Topics: 22, Coherence Score: 0.4839567347826881
+Num Topics: 24, Coherence Score: 0.5017817779008379
+Num Topics: 26, Coherence Score: 0.4900723660908305
+Num Topics: 28, Coherence Score: 0.489299081832354
+
+Best Num Topics: 18, Coherence Score: 0.5077927217610065
